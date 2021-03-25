@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohsin-Zone
+- 👋 Hi, I’m Mohsina Taj
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning ML Model Implementations
 - 💞️ I’m looking to collaborate on Data Science related work
